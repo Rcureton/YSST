@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     ListView mListView;
     TextView mTextView;
     ArrayList<MoviesList> mMovieMainList;
-    
+
 
 
     @Override
